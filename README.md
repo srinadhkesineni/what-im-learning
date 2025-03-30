@@ -8,3 +8,6 @@
  -> Harkirat Singh
 
 Creating an interpreter - https://craftinginterpreters.com/
+
+-> Dynamic Programming all problem variations
+https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html
