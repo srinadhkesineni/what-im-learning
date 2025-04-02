@@ -19,3 +19,7 @@ https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html
 #
 
 https://blog.cloudflare.com/cloud-computing-without-containers
+
+#
+
+https://www.youtube.com/watch?v=TZ5a3gCCZYo
