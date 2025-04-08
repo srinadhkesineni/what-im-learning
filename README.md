@@ -23,3 +23,7 @@ https://blog.cloudflare.com/cloud-computing-without-containers
 #
 
 https://www.youtube.com/watch?v=TZ5a3gCCZYo
+
+#
+Compettitve programming - topics list
+https://youkn0wwho.academy/topic-list
