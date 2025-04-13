@@ -24,7 +24,9 @@ https://www.youtube.com/watch?v=TZ5a3gCCZYo
 # DSA and Competitive programming
 
 https://youkn0wwho.academy/topic-list
+
 -----> graphs blogs
+
 -> https://codeforces.com/blog/entry/16221
 
 -> https://codeforces.com/blog/entry/82746
@@ -32,8 +34,6 @@ https://youkn0wwho.academy/topic-list
 -> https://codeforces.com/blog/entry/75431
 
 -> https://codeforces.com/blog/entry/68138
-
-disjoint blog
 
 ->https://codeforces.com/blog/entry/75369
 
