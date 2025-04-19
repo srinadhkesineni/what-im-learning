@@ -56,3 +56,8 @@ https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patte
 https://codeforces.com/blog/entry/90293
 
 https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html
+
+
+# Testing
+
+ -> Jest (javascript testing framework) 
