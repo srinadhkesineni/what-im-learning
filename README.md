@@ -57,9 +57,12 @@ https://codeforces.com/blog/entry/90293
 
 https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html
 
-
 # Testing
 
- -> Jest (javascript testing framework) 
- -> Unit testing
- -> Github actions
+-> Jest (javascript testing framework)
+-> Unit testing
+-> Github actions
+
+#
+
+https://www.youtube.com/watch?v=UPtG_38Oq8o
