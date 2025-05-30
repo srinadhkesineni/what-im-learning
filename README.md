@@ -66,3 +66,9 @@ https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html
 #
 
 https://www.youtube.com/watch?v=UPtG_38Oq8o
+
+# open source contubutions
+
+-> PocketFlow
+
+->skrub
