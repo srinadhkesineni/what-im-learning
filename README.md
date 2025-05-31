@@ -72,3 +72,5 @@ https://www.youtube.com/watch?v=UPtG_38Oq8o
 -> PocketFlow
 
 ->skrub
+
+->contributing to GSOC and other programs.
